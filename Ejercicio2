@@ -1,4 +1,4 @@
-# EJERCICIO 2
+# EJERCICIO 2, COMPARADOR DE NÚMEROS
 
 print("Dame 2 números: ")
 numero = int(input()) 
