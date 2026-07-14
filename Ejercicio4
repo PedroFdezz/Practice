@@ -1,4 +1,4 @@
-# EJERCICIO 4
+# EJERCICIO 4, IMC
 
 altura = float(input("Escribe tu altura (en metros): "))
 peso = float(input("Escribe tu peso (en kg): "))
