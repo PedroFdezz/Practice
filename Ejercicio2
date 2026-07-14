@@ -1,4 +1,4 @@
-#EJERCICIO 2
+# EJERCICIO 2
 
 print("Dame 2 números: ")
 numero = int(input()) 
