@@ -1,0 +1,6 @@
+# EJERCICIO 4
+
+altura = float(input("Escribe tu altura (en metros): "))
+peso = float(input("Escribe tu peso (en kg): "))
+IMC = peso / (altura ** 2)
+print(f"Tu IMC es : {IMC}") 
