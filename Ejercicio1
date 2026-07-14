@@ -1,0 +1,11 @@
+# EJERCICIO 1
+
+
+print("Dime tu edad: ")
+edad = int(input())
+if edad <13:
+    print("Eres un niño")
+if edad >13 and edad <17:
+    print("Eres un adolescente")
+if edad >18:
+    print("Eres un adulto")
