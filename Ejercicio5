@@ -1,4 +1,4 @@
-# EJERCICIO 5
+# EJERCICIO 5, AÑO BISIESTO
 
 print("Dime un año: ") 
 año = int(input())
