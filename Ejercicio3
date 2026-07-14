@@ -1,0 +1,12 @@
+# EJERCICIO 3
+
+print("Dime tu nota: ")
+nota = int(input())
+if nota <5: 
+    print ("Supenso")
+if nota >=5 and nota <7:
+    print("Aprobado")
+if nota >=7 and nota <9:
+    print ("Notable")
+if nota >=9 and nota <=10:
+    print("Sobresaliente")
