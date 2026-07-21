@@ -1,0 +1,24 @@
+# EJERCICIO 6, PEDIR 3 NUMEROS Y DECIR EL MAYOR USANDO IF/ ELIF/ ELSE, SIN USAR FUNCIÓN MAX.
+print("Dime tres números: ")
+x = int(input())
+y = int(input())
+z = int(input())
+if x > y and x > z:
+    print(f"El número mayor es : {x}")
+elif y > x and y > z:
+    print(f"El número mayor es : {y}")
+else : 
+    print(f"El número mayor es : {z}")
+
+# EXTRA, ARREGLO EN CASO DE EMPATE.
+
+print("Dime tres números: ")
+x = int(input())
+y = int(input())
+z = int(input())
+if x >= y and x > z:
+    print(f"El número mayor es : {x}")
+elif y >= x and y > z:
+    print(f"El número mayor es : {y}")
+else : 
+    print(f"El número mayor es : {z}")
